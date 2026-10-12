@@ -103,7 +103,7 @@ Nexus-SOC uses **SQLite** for persistent application data.
 
 The database is automatically initialized when the application starts.
 
-### Main Tables
+### Main Tables !!
 
 ```text
 users
