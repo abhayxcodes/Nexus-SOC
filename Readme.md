@@ -1,10 +1,10 @@
 # Nexus-SOC
 
-### Security Operations Center Simulator !!!!!!!
+### Security Operations Center Simulator !!
 
 Nexus-SOC is a web-based Security Operations Center (SOC) simulator built with **Python and Flask**. It provides a practical environment for collecting security events, analyzing logs, detecting suspicious activity, tracking Indicators of Compromise (IOCs), generating alerts, and managing security incidents through a SOC-style workflow.
 
-The project is designed as a defensive cybersecurity and SOC learning platform that demonstrates how different security monitoring and incident-handling components can work together.....
+The project is designed as a defensive cybersecurity and SOC learning platform that demonstrates how different security monitoring and incident-handling components can work together.......
 
 ---
 
