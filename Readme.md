@@ -81,7 +81,7 @@ The project is designed as a defensive cybersecurity and SOC learning platform t
 
 ---
 
-## 🧰 Technology Stack!!
+## 🧰 Technology Stack!!!!
 
 | Technology              | Purpose                   |
 | ----------------------- | ------------------------- |
