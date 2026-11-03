@@ -8,7 +8,7 @@ The project is designed as a defensive cybersecurity and SOC learning platform t
 
 ---
 
-## 🚀 Features
+## 🚀 Features!!!!
 
 * 🔐 User registration and authentication
 * 📥 Security event ingestion
